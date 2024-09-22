@@ -1,0 +1,5 @@
+{
+    "COUCH_URL": "https://cloud.ibm.com/services/cloudantnosqldb/crn%3Av1%3Abluemix%3Apublic%3Acloudantnosqldb%3Ain-che%3Aa%2F73fa5bc70292409d876efb5276011bb2%3A9b4ad2c6-428b-4887-898d-ec0af7bcea7f%3A%3A?paneId=credentials",
+    "IAM_API_KEY": "QBxX1vGCcm3yCmBj7t_Fl0oHcaRReyTvCTu_PDm5DPSv",
+    "COUCH_USERNAME": "3ddbced0-d390-4942-83a1-1100fdc39693-bluemix"
+}
